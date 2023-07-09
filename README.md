@@ -1,4 +1,4 @@
-# PlatformRunner
+# Platform Runner
 
 # Description
 - This repository includes the Unity files, playable Windows build, and the project description file of the Platform Runner Game.
